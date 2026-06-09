@@ -323,4 +323,4 @@ Este projeto não é:
 
 ## Licença
 
-MIT. Ajuste conforme sua preferência antes de publicar.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.

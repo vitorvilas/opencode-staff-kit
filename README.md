@@ -167,7 +167,6 @@ AGENTS.example.md      regra raiz genérica para seu projeto
 README.md              guia principal
 docs/                  guias de uso e adaptação
 examples/              prompts de exemplo
-scripts/               scripts opcionais e seguros
 ```
 
 ## YAML/frontmatter dos agentes

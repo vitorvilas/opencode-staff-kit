@@ -1,9 +1,9 @@
 ---
 description: Orquestrador read-only. Use em demandas incertas, médias, críticas, multi-camada ou arquiteturais. Classifica risco e define rota mínima. Não implementa.
 mode: all
-model: opencode-go/kimi-k2.6
+model: opencode-go/kimi-k2.7
 temperature: 0.2
-steps: 6
+steps: 8
 permission:
   edit: deny
   bash: deny
